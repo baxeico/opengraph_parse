@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="opengraph_parse", 
-    version="0.0.6",
+    version="0.0.7",
     author="Ben Jacobson",
     author_email="",
     description="Parses Open Graph meta tags of web pages and returns a handy JSON-like object. Use this to generate preview of web pages like you see on social media",
